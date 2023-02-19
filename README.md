@@ -34,7 +34,7 @@
 ## What is Open Assistant?
 
 <p align="center">
-    Open Assistant is a project meant to give everyone access to a great chat based large language model.
+    Open Assistant is a project meant to give everyone access to a great chat based large language model.It generally refers to an AI-based digital assistant that have been developed and made available as open source software.
 </p>
 
 We believe that by doing this we will create a revolution in innovation in
